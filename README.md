@@ -10,6 +10,12 @@ App React Native com Expo para apoiar a observação de sinais associados a alag
 | Felipe Hui Hattori | 565169 |
 | Kauany Ribeiro de Moura | 564576 |
 
+## Demonstração
+
+[Assistir à demonstração do Território Alerta no YouTube](https://youtu.be/-1ymE97cmDw)
+
+Vídeo de 2min26s com o aplicativo no iPhone: indicadores, validação das leituras, alertas, configurações, consulta à API pública e persistência local.
+
 ## Rodar
 
 Requisitos: Node.js 24 LTS e npm, internet para instalar pacotes. O projeto usa Expo SDK 58, correspondente à versão do Expo Go informada pelo iPhone usado no teste em 16/11/2026; o `package-lock.json` fixa as versões. Não instalar o antigo `expo-cli` global.
