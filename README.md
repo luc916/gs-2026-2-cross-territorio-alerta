@@ -71,6 +71,12 @@ Resultados confirmados por Lucas:
 
 Lucas também informou a realização dos testes de navegação, validação dos formulários, reconhecimento de alertas e uso dos dados locais. O registro se baseia no relato do integrante que operou o aparelho. O teste com VoiceOver não foi confirmado.
 
+## Revisão técnica de 18/11/2026
+
+A revisão de 18/11/2026 aprovou os 17 testes, a análise de tipos, o lint e as 20 verificações do Expo Doctor. Os arquivos de testes enviados pelos integrantes foram conferidos com essa versão. A exportação dos bundles para iOS, Android e web também foi concluída. Expo e Expo Router receberam atualizações de correção dentro do SDK 58.
+
+Essa geração não equivale a um novo teste em aparelho: o teste no iPhone e a demonstração acima correspondem à versão usada em 16/11/2026.
+
 ## Fontes de dados
 
 **Verificação de 16/11/2026:** projeto atualizado para SDK 58 após o iPhone informar incompatibilidade com SDK 54. Os 11 testes, tipos e lint foram aprovados, assim como as 20 verificações do Expo Doctor. A revisão anterior também corrigiu falhas de restauração local, mensagens da API e rótulos acessíveis. Lucas confirmou a abertura e o teste no iPhone 17 Pro Max, conforme o registro acima. O npm audit da instalação atual informa dez avisos moderados; não foram forçadas trocas incompatíveis de dependências.
